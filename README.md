@@ -39,8 +39,10 @@ The backlog consists of:
 3. Write a README.md. 
 4. Identify the HTML structure to build (wireframe analysis).
 5. Code the HTML structure. 
-6. Identify similar style structures (wireframe analysis). For instance, similar buttons that may share CSS properties. 
-7. Start coding CSS, section by section. 
+8. Identify the general style structure of the page. For instance, distances between sections, etc. 
+7. Identify similar style structures (wireframe analysis). For instance, similar buttons that may share CSS properties, texts with the same style, etc. 
+9. Apply styles, section by section, according to the designed HI-FI wireframe. 
+10. Build a desktop version of the landing page using media querys, according to the designed HI-FI wireframes. 
 
 ## Repository
 ### Files
