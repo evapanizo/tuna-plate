@@ -54,7 +54,8 @@ The backlog consists of:
 ### Folders
 
   - `./assets`
-
+    - `/images`
+    - `/fonts`
 
 ## Links
 
@@ -64,8 +65,5 @@ The backlog consists of:
 
 ### Git
 - [Game Repository](https://github.com/gap1885/tuna-plate)
-- [Deployed game](Pending)
+- [Deployed game](https://gap1885.github.io/tuna-plate/)
 
-
-### Slides
-- [Slides](Pending)
