@@ -1,4 +1,4 @@
-# King Broccoli
+# Verde que te quiero verde
 
 > Tuna-Plate 2018 - Internal Ironhack Barcelona Hackathon (UX/UI + WebDev)
 
